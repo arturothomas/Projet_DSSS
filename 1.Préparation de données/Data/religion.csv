@@ -1,0 +1,226 @@
+,Country,first_rel,country_code
+0,Angola,Christian,AGO
+1,Cameroon,Christian,CMR
+2,Central African Republic,Christian,CAF
+3,Chad,Muslim,TCD
+4,"Congo, Democratic Republic of the",Christian,Unknown code
+5,"Congo, Republic of the",Christian,Unknown code
+6,Equatorial Guinea,Christian,GNQ
+7,Gabon,Christian,GAB
+8,São Tomé and Príncipe,Christian,Unknown code
+9,Burundi,Christian,BDI
+10,Comoros,Muslim,COM
+11,Djibouti,Muslim,DJI
+12,Eritrea,Christian,ERI
+13,Ethiopia,Christian,ETH
+14,Kenya,Christian,KEN
+15,Madagascar,Christian,MDG
+16,Malawi,Christian,MWI
+17,Mauritius,Hindu,MUS
+18,Mayotte,Muslim,MYT
+19,Mozambique,Christian,MOZ
+20,Réunion,Christian,REU
+21,Rwanda,Christian,RWA
+22,Seychelles,Christian,SYC
+23,Somalia,Muslim,SOM
+24,South Sudan,Christian,SSD
+25,Tanzania,Christian,Unknown code
+26,Uganda,Christian,UGA
+27,Zambia,Christian,ZMB
+28,Zimbabwe,Christian,ZWE
+29,Algeria,Muslim,DZA
+30,Egypt,Muslim,EGY
+31,Libya,Muslim,LBY
+32,Morocco,Muslim,MAR
+33,Sudan,Muslim,SDN
+34,Tunisia,Muslim,TUN
+35,Botswana,Christian,BWA
+36,Eswatini,Christian,SWZ
+37,Lesotho,Christian,LSO
+38,Namibia,Christian,NAM
+39,South Africa,Christian,ZAF
+40,Benin,Christian,BEN
+41,Burkina Faso,Muslim,BFA
+42,Cape Verde,Christian,Unknown code
+43,The Gambia,Muslim,Unknown code
+44,Ghana,Christian,GHA
+45,Guinea,Muslim,GIN
+46,Guinea-Bissau,Muslim,GNB
+47,Ivory Coast,Christian,Unknown code
+48,Liberia,Christian,LBR
+49,Mali,Muslim,MLI
+50,Mauritania,Muslim,MRT
+51,Niger,Muslim,NER
+52,Nigeria,Muslim,NGA
+53,Senegal,Muslim,SEN
+54,Sierra Leone,Muslim,SLE
+55,Saint Helena,Christian,Unknown code
+56,Togo,Christian,TGO
+57,Anguilla,Christian,AIA
+58,Antigua and Barbuda,Christian,ATG
+59,Aruba,Christian,ABW
+60,Bahamas,Christian,BHS
+61,Barbados,Christian,BRB
+62,Cayman Islands,Christian,CYM
+63,Cuba,Christian,CUB
+64,Dominica,Christian,DMA
+65,Dominican Republic,Christian,DOM
+66,Grenada,Christian,GRD
+67,Guadeloupe,Christian,GLP
+68,Haiti,Christian,HTI
+69,Jamaica,Christian,JAM
+70,Martinique,Christian,MTQ
+71,Montserrat,Christian,MSR
+72,Netherlands Antilles,Christian,Unknown code
+73,Puerto Rico,Christian,PRI
+74,Saint Kitts and Nevis,Christian,KNA
+75,Saint Lucia,Christian,LCA
+76,Saint Vincent and the Grenadines,Christian,VCT
+77,Trinidad and Tobago,Christian,TTO
+78,Turks and Caicos Islands,Christian,TCA
+79,British Virgin Islands,Christian,Unknown code
+80,U.S. Virgin Islands,Christian,Unknown code
+81,Belize,Christian,BLZ
+82,Costa Rica,Christian,CRI
+83,El Salvador,Christian,SLV
+84,Guatemala,Christian,GTM
+85,Honduras,Christian,HND
+86,Nicaragua,Christian,NIC
+87,Panama,Christian,PAN
+88,Bermuda,Christian,BMU
+89,Canada,Christian,CAN
+90,Greenland,Christian,GRL
+91,Mexico,Christian,MEX
+92,Saint Pierre and Miquelon,Christian,SPM
+93,United States,Christian,USA
+94,Argentina,Christian,ARG
+95,Bolivia,Christian,Unknown code
+96,Brazil,Christian,BRA
+97,Chile,Christian,CHL
+98,Colombia,Christian,COL
+99,Ecuador,Christian,ECU
+100,Falkland Islands,Christian,Unknown code
+101,French Guiana,Christian,GUF
+102,Guyana,Christian,GUY
+103,Paraguay,Christian,PRY
+104,Peru,Christian,PER
+105,Suriname,Christian,SUR
+106,Uruguay,Christian,URY
+107,Venezuela,Christian,Unknown code
+108,Mainland China,Irreligion,Unknown code
+109,Hong Kong,Irreligion,HKG
+110,Macau,Folk religion,Unknown code
+111,Taiwan,Folk religion,Unknown code
+112,Japan,Irreligion,JPN
+113,North Korea,Irreligion,Unknown code
+114,South Korea,Irreligion,Unknown code
+115,Mongolia,Buddhist,MNG
+116,Brunei,Muslim,Unknown code
+117,Cambodia,Buddhist,KHM
+118,Indonesia,Muslim,IDN
+119,Laos,Buddhist,Unknown code
+120,Malaysia,Muslim,MYS
+121,Myanmar,Buddhist,MMR
+122,Philippines,Christian,PHL
+123,Singapore,Buddhist,SGP
+124,Thailand,Buddhist,THA
+125,Timor-Leste,Christian,TLS
+126,Vietnam,Folk religion,Unknown code
+127,Afghanistan,Muslim,AFG
+128,Bangladesh,Muslim,BGD
+129,Bhutan,Buddhist,BTN
+130,Indie,Hindu,Unknown code
+131,Maldives,Muslim,MDV
+132,Nepal,Hindu,NPL
+133,Pakistan,Muslim,PAK
+134,Sri Lanka,Buddhist,LKA
+135,Kazakhstan,Muslim,KAZ
+136,Kyrgyzstan,Muslim,KGZ
+137,Tajikistan,Muslim,TJK
+138,Turkmenistan,Muslim,TKM
+139,Uzbekistan,Muslim,UZB
+140,Armenia,Christian,ARM
+141,Azerbaijan,Muslim,AZE
+142,Bahrain,Muslim,BHR
+143,Cyprus,Christian,CYP
+144,Iran,Muslim,Unknown code
+145,Iraq,Muslim,IRQ
+146,Israel,Jewish,ISR
+147,Jordan,Muslim,JOR
+148,Kuwait,Muslim,KWT
+149,Lebanon,Muslim,LBN
+150,Oman,Muslim,OMN
+151,Palestine,Muslim,Unknown code
+152,Qatar,Muslim,QAT
+153,Saudi Arabia,Muslim,SAU
+154,Syria,Muslim,Unknown code
+155,Turkey,Muslim,TUR
+156,United Arab Emirates,Muslim,ARE
+157,Yemen,Muslim,YEM
+158,Austria,Christian,AUT
+159,Czech Republic,Irreligion,Unknown code
+160,Germany,Christian,DEU
+161,Hungary,Christian,HUN
+162,Liechtenstein,Christian,LIE
+163,Poland,Christian,POL
+164,Slovakia,Christian,SVK
+165,Switzerland,Christian,CHE
+166,Belarus,Christian,BLR
+167,Georgia,Christian,GEO
+168,Russia,Christian,Unknown code
+169,Ukraine,Christian,UKR
+170,Denmark,Christian,DNK
+171,Faroe Islands,Christian,FRO
+172,Estonia,Irreligion,EST
+173,Finland,Christian,FIN
+174,Iceland,Christian,ISL
+175,Latvia,Christian,LVA
+176,Lithuania,Christian,LTU
+177,Norway,Christian,NOR
+178,Sweden,Christian,SWE
+179,Albania,Muslim,ALB
+180,Bosnia and Herzegovina,Muslim,BIH
+181,Bulgaria,Christian,BGR
+182,Croatia,Christian,HRV
+183,Greece,Christian,GRC
+184,Kosovo,Muslim,Unknown code
+185,Moldova,Christian,Unknown code
+186,Montenegro,Christian,MNE
+187,North Macedonia,Christian,MKD
+188,Romania,Christian,ROU
+189,Serbia,Christian,SRB
+190,Slovenia,Christian,SVN
+191,Andorra,Christian,AND
+192,Gibraltar,Christian,GIB
+193,Italy,Christian,ITA
+194,Malta,Christian,MLT
+195,Portugal,Christian,PRT
+196,San Marino,Christian,SMR
+197,Spain,Christian,ESP
+198,Vatican City,Christian,Unknown code
+199,Belgium,Christian,BEL
+200,France,Christian,FRA
+201,Ireland,Christian,IRL
+202,Isle of Man,Christian,IMN
+203,Luxembourg,Christian,LUX
+204,Monaco,Christian,MCO
+205,Netherlands,Christian,NLD
+206,United Kingdom,Christian,GBR
+207,Australia,Christian,AUS
+208,New Zealand,Irreligion,NZL
+209,Guam,Christian,GUM
+210,Kiribati,Christian,KIR
+211,Marshall Islands,Christian,MHL
+212,Micronesia,Christian,Unknown code
+213,Nauru,Christian,NRU
+214,Northern Mariana Islands,Christian,MNP
+215,Palau,Christian,PLW
+216,American Samoa,Christian,ASM
+217,Cook Islands,Christian,COK
+218,French Polynesia,Christian,PYF
+219,Niue,Christian,NIU
+220,Samoa,Christian,WSM
+221,Tokelau,Christian,TKL
+222,Tonga,Christian,TON
+223,Tuvalu,Christian,TUV
+224,Wallis and Futuna,Christian,WLF
